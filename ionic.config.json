@@ -1,5 +1,7 @@
 {
   "name": "peliApi",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
